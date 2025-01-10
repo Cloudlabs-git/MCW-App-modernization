@@ -255,7 +255,6 @@ At this point, you have migrated the database schema using DMA. In this task, yo
 
    ![](media/m40.png)
 
-
 1. On the Azure Database Migration Service Blade, select **+ New Migration**.
 
     ![](media/click_new_migration_DMS.png)
