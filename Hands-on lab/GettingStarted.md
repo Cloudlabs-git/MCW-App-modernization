@@ -63,6 +63,10 @@ In this hands-on lab, the architecture flow begins by using Azure Migrate to ass
 1. To enable copying from the lab guide to the Virtual machine(JumpVM), enable **VM Native Clipboard (1)** and click **Ok (2)**. You can open the Lab Guide on separate and full window by selecting the **Split Window (3)** from the top right corner. 
 
    ![](media/Split&Copy.png "Split and enable Copying")
+ 
+1. To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+
+   ![](media/zoomin.png)
 
 ## Login to Azure Portal
 
